@@ -1,6 +1,6 @@
-package tutorial.basic;
+package tutorial.primitiveTypes;
 
-public class Variables {
+public class App {
 
     public static void main(String[] args) {
 

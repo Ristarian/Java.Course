@@ -1,4 +1,4 @@
-package tutorial.basic;
+package tutorial.primitiveTypes;
 
 public class PrimitiveTypes {
 
