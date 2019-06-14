@@ -1,4 +1,4 @@
-package tutorial.string;
+package tutorial.string.examplesOfString;
 
 public class App {
 
