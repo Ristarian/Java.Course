@@ -1,4 +1,4 @@
-package tutorial.string.stringBuilderAndStringFormatting;
+package tutorial.elementsOfJava.inheritance;
 
 public class App {
 

@@ -1,6 +1,6 @@
 package tutorial.elementsOfJava.constructors;
 
-//konstruktor to specjalna metoda
+//konstruktor to specjalna method
 
 class Machine {
 

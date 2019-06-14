@@ -21,12 +21,12 @@ class Thing {
         count++;
     }
 
-    //metoda standardowa
+    //method standardowa
     public void showName(){
         System.out.println(description + id + ": " + name);
     }
 
-    //metoda typu static
+    //method typu static
     public static void showDescription(){
         System.out.println("Hi");
         // nie będzie działać: System.out.println(name);
