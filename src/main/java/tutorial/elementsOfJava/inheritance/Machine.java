@@ -6,6 +6,7 @@ public class Machine {
     // protected jest dostępne w pakiecie i w dzieciach tej klasy
     protected String name = "Machine v1";
 
+
     public void start(){
         System.out.println("Machine started");
     }

@@ -1,8 +1,8 @@
-package tutorial.other;
+package tutorial.other.gettingUserInput;
 
 import java.util.Scanner;
 
-public class gettingUserInput {
+public class App {
 
     public static void main(String[] args) {
 
