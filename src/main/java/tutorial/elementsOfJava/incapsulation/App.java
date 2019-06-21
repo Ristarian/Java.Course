@@ -1,4 +1,4 @@
-package tutorial.elementsOfJava.incapsulatio;
+package tutorial.elementsOfJava.incapsulation;
 
 
 // Enkapsulacja (ang. encapsulation), czy inaczej hermetyzacja
