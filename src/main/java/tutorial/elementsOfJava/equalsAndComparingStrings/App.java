@@ -1,4 +1,4 @@
-package tutorial.equals.equalsAndComparingStrings;
+package tutorial.elementsOfJava.equalsAndComparingStrings;
 
 import java.util.Objects;
 
